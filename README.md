@@ -38,7 +38,7 @@ http://localhost:3000/projects/0/tasks
 Body:
 
 {
-	"title":"pegar o cartão de crédito2"
+	"title":"Middlewares"
 }
 
 
@@ -50,7 +50,7 @@ http://localhost:3000/projects/0
 Body:
 
 {
-	"title":"Fazer Compras 3"
+	"title":"Método Get"
 }
 
 
